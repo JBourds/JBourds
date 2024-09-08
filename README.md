@@ -11,7 +11,7 @@
 
 ### Current Projects
 
-- [`website`](jordanbourdeau.com): Portfolio site- Check it out!
+- [`website`](https://jordanbourdeau.com): Portfolio site- Check it out!
 
 <!--
 
